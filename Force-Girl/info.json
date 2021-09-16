@@ -1,0 +1,8 @@
+{
+    "Id": "MtC.Mod.ChineseParents.ForceGirl",
+    "DisplayName": "强制生女儿 - Force Girl",
+    "Author": "Mr.true.China",
+    "Version": "1.0.0",
+    "AssemblyName": "Force-Girl.dll",
+    "EntryMethod": "MtC.Mod.ChineseParents.ForceGirl.Main.Load"
+}
