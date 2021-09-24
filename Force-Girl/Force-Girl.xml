@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Force-Girl</name>
+    </assembly>
+    <members>
+        <member name="P:MtC.Mod.ChineseParents.ForceGirl.Main.ModEntry">
+            <summary>
+            Mod 对象
+            </summary>
+        </member>
+        <member name="F:MtC.Mod.ChineseParents.ForceGirl.Main.enabled">
+            <summary>
+            这个 Mod 是否启动
+            </summary>
+        </member>
+        <member name="M:MtC.Mod.ChineseParents.ForceGirl.Main.OnToggle(UnityModManagerNet.UnityModManager.ModEntry,System.Boolean)">
+            <summary>
+            Mod Manager 对 Mod 进行控制的时候会调用这个方法
+            </summary>
+            <param name="modEntry"></param>
+            <param name="value">这个 Mod 是否激活</param>
+            <returns></returns>
+        </member>
+        <member name="T:MtC.Mod.ChineseParents.ForceGirl.end_panel_info_reset_record">
+            <summary>
+            开新周目时生成数据的方法，里面有制作组说过的二周目性别和一周目相反的代码
+            </summary>
+        </member>
+        <member name="T:MtC.Mod.ChineseParents.ForceGirl.record_manager_create_new">
+            <summary>
+            在开新档时生成新的玩家数据的方法
+            </summary>
+        </member>
+    </members>
+</doc>
