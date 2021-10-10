@@ -112,3 +112,4 @@ D:\Projects\Unity-Mod-Manager-Mod\Chinese-Parents\Chinese-Parents-Force-Girl\For
 D:\Projects\Unity-Mod-Manager-Mod\Chinese-Parents\Chinese-Parents-Force-Girl\Force-Girl-Sources\obj\Debug\Force-Girl.dll
 D:\Projects\Unity-Mod-Manager-Mod\Chinese-Parents\Chinese-Parents-Force-Girl\Force-Girl-Sources\obj\Debug\Force-Girl.pdb
 D:\Projects\Unity-Mod-Manager-Mod\Chinese-Parents\Chinese-Parents-Force-Girl\Force-Girl-Sources\bin\Debug\Force-Girl.xml
+D:\Projects\Unity-Mod-Manager-Mod\Chinese-Parents\Chinese-Parents-Force-Girl\Force-Girl-Sources\obj\Debug\Force-Girl.csprojAssemblyReference.cache
